@@ -3,6 +3,7 @@
 Welcome to **BoxFit**, a real-time collaborative grid-based game inspired by inventory packing and warehouse logistics.
 
 This assignment is designed to test your skills in **React**, **CSS**, **algorithms**, and **real-time collaboration** using technologies like **Yjs** or **WebSockets**.
+![boxfit](https://github.com/user-attachments/assets/4cbcc9b8-ad07-4b2b-ace5-28b2f7c5b443)
 
 ---
 
@@ -66,10 +67,6 @@ You are free to choose your stack, but here are recommended technologies:
 * Sync	Yjs (preferred) or socket.io
 * Backend (for rooms/scores)
 * DevOps	Docker + Docker Compose
-
-## 🚀 Getting Started
-🐳 Run via Docker, expose all relevant ports and services
-`docker-compose up `
 
 ## 🧪 Evaluation Criteria
 * React Structure	Hooks, component design, reusability
